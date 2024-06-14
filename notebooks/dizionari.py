@@ -1,4 +1,5 @@
 dizionario_nomi = {
+    'ID'      : 'ID',
     'mese'    : 'Mese',
     'annrif'  : 'Anno',
     'progind' : 'Indice progressivo', # indice dell'intervista individuale
