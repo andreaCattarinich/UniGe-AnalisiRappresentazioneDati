@@ -330,10 +330,10 @@ mezzo_mapping = {
 }
 
 stagione_mapping = {
-    '01': 'Gennaio-Marzo',
-    '02': 'Aprile-Giugno',
-    '03': 'Luglio-Settembre',
-    '04': 'Ottobre-Dicembre'
+    1: 'Gennaio-Marzo',
+    2: 'Aprile-Giugno',
+    3: 'Luglio-Settembre',
+    4: 'Ottobre-Dicembre'
 }
 
 
