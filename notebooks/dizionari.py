@@ -38,6 +38,12 @@ eta_mapping = {
     8: '>=75'
 }
 
+sesso_mapping={
+    1: 'Uomo',
+    2: 'Donna'
+}
+
+
 stato_civile_mapping = {
     '1': 'Celibe/nubile',
     '2': 'Coniugato',
@@ -84,10 +90,10 @@ livello_di_istruzione_mapping = {
 }
 
 stato_di_impiego_mapping = {
-    '0': 'Nessuno (meno di 14 anni)',
-    '1': 'Impiegato',
-    '2': 'Cercatore di lavoro',
-    '3': 'Inattivo'
+    0: 'Disoccupato/a',
+    1: 'Impiegato/a',
+    2: 'Disoccupato/a',
+    3: 'Disoccupato/a'
 }
 
 grado_di_impiego_mapping = {
