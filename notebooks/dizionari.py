@@ -45,10 +45,10 @@ sesso_mapping={
 
 
 stato_civile_mapping = {
-    '1': 'Celibe/nubile',
-    '2': 'Coniugato',
-    '3': 'Separato/Divorziato',
-    '4': 'Vedovo'
+    1: 'Celibe/nubile',
+    2: 'Coniugato',
+    3: 'Separato/Divorziato',
+    4: 'Vedovo'
 }
 
 regione_mapping = {
@@ -97,38 +97,38 @@ stato_di_impiego_mapping = {
 }
 
 grado_di_impiego_mapping = {
-    '0': 'Nessuno (meno di 14 anni)',
-    '1': 'Manager, Esecutivo, Supervisore, Dipendente',
-    '2': 'Apprendista lavoratore, Lavoratore domestico per conto di un\'azienda',
-    '3': 'Imprenditore, Professionista autonomo',
-    '4': 'Lavoratore autonomo, Socio cooperativo, Assistente, Freelancer, Fornitore di lavoro occasionale'
+    0: 'Nessuno',
+    1: 'Dipendente',
+    2: 'Apprendista',
+    3: 'Imprenditore',
+    4: 'Lavoratore autonomo'
 }
 
 settore_di_lavoro_mapping = {
-    '0': 'Nessuno (meno di 14 anni)',
-    '1': 'Settore Primario',
-    '2': 'Settore Secondario',
-    '3': 'Settore Terziario'
+    0: 'Nessuno',
+    1: 'Settore Primario',
+    2: 'Settore Secondario',
+    3: 'Settore Terziario'
 }
 
 impiego_mapping = {
-    '0': 'Nessuno (meno di 14 anni)',
-    '1': 'Impiegato',
-    '2': 'Cercatore di Lavoro',
-    '3': 'Casalinga/Studente/Altra Condizione',
-    '4': 'Pensionato'
+    0: 'Nessuno (meno di 14 anni)',
+    1: 'Impiegato',
+    2: 'Cercatore di Lavoro',
+    3: 'Casalinga/Studente/Altra Condizione',
+    4: 'Pensionato'
 }
 
 tipo_di_impiego_mapping = {
-    '0': 'Nessuno (meno di 14 anni)',
-    '1': 'Tempo Pieno',
-    '2': 'Tempo Parziale'
+    0: 'Nessuno (meno di 14 anni)',
+    1: 'Tempo Pieno',
+    2: 'Tempo Parziale'
 }
 
 RAPP_mapping = {
-    '0': 'Nessuno (meno di 14 anni)',
-    '1': 'A Termine',
-    '2': 'A Tempo Indeterminato'
+    0: 'Nessuno (meno di 14 anni)',
+    1: 'A Termine',
+    2: 'A Tempo Indeterminato'
 }
 
 destinazione_italia_estero_mapping = {
