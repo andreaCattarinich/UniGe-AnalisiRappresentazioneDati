@@ -2,7 +2,7 @@ dizionario_nomi = {
     'ID'      : 'ID',
     'mese'    : 'Mese',
     'annrif'  : 'Anno',
-    'progind' : 'Indice progressivo', # indice dell'intervista individuale
+    'progind' : 'Indice progressivo',
     'sesso'   : 'Sesso',
     'eta10'   : 'Età',
     'staciv4' : 'Stato civile',
