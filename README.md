@@ -1,5 +1,5 @@
 # UniGe - Progetto Analisi e Rappresentazione dei Dati 
-# 📍 Escursioni in Italia - Analisi dei Percorsi Escursionistici (2014-2022)
+## 📍 Escursioni in Italia - Analisi dei Percorsi Escursionistici (2014-2022)
 
 ## Descrizione
 
